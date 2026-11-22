@@ -1,0 +1,5 @@
+# tiny-stack-vm
+
+A tiny stack virtual machine — a compact, fully correct interpreter of make.fun's tiny stack ISA.
+
+[![tiny-stack-vm-01-run-20261122](https://make.fun/badge/tiny-stack-vm-01-run-20261122.svg)](https://make.fun/bounty/tiny-stack-vm-01-run-20261122)
